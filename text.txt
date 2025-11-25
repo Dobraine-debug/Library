@@ -1,0 +1,6 @@
+mvn compile för att kompilera koden i filerna
+mvn clean för att ta bort klassfiler från en tidigare iteration av livscykeln
+mvn javadoc:javadoc för att generera javadoc-dokumentation
+mvn surefire:test generera rapport från testerna
+mvn test för att köra testklasserna
+mvn package för att bygga programmet och skapa en jar-fil
